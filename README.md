@@ -8,4 +8,5 @@ IMAGES
 ![SHOP-CART-IMAGE](./Images/FirstCapture.PNG)
 
 ## New Element Added
-![NewElementAdded](NewElementAdded.PNG)
+
+![NewElementAdded](./Images/NewElementAdded.PNG)
