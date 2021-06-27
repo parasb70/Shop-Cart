@@ -8,4 +8,4 @@ IMAGES
 ![SHOP-CART-IMAGE](./Images/FirstCapture.PNG)
 
 ## New Element Added
-![Clock-Image](NewElementAdded.PNG)
+![NewElementAdded](NewElementAdded.PNG)
